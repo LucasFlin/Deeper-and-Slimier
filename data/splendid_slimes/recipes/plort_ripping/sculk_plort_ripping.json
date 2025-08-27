@@ -1,0 +1,38 @@
+{
+  "type": "splendid_slimes:plort_ripping",
+  "ingredient": {
+    "item": "splendid_slimes:plort",
+    "nbt": {
+      "plort": {
+        "id": "splendid_slimes:sculk"
+      }
+    }
+  },
+  "results": [
+    {
+      "item": "minecraft:echo_shard",
+        "count": 1,
+      "weight": 500
+    },
+        {
+      "item": "deeperdarker:sculk_bone",
+        "count": 1,
+      "weight": 230
+    },
+            {
+      "item": "deeperdarker:resonarium",
+        "count": 1,
+      "weight": 220
+    },
+    {
+      "item": "deeperdarker:soul_crystal",
+        "count": 1,
+      "weight": 50
+    },
+    {
+      "item": "deeperdarker:warden_carapace",
+        "count": 1,
+      "weight": 1
+    }
+  ]
+}
