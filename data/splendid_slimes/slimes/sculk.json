@@ -1,11 +1,11 @@
 {
   "breed": "sculk",
-  "name": "Sculk",
+  "name": "slime.splendid_slimes.sculk",
   "color": "#024050",
   "particle": {
     "item": "minecraft:sculk"
   },
-  "diet": "Sculk",
+  "diet": "diet.splendid_slimes.sculk",
   "foods": [
     { "item": "minecraft:sculk" },
     { "item": "deeperdarker:bloom_berries" },
